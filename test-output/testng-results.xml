@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-29T11:11:03 WET" name="Default suite" finished-at="2020-01-29T11:11:17 WET" duration-ms="13682">
+    <groups>
+    </groups>
+    <test started-at="2020-01-29T11:11:03 WET" name="Default test" finished-at="2020-01-29T11:11:17 WET" duration-ms="13682">
+      <class name="com.example.tests.CT01ValidarLayout">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.tests.CT01ValidarLayout@4387b79e]" started-at="2020-01-29T11:11:03 WET" name="setUp" finished-at="2020-01-29T11:11:07 WET" duration-ms="4555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCT01ValidarLayout()[pri:0, instance:com.example.tests.CT01ValidarLayout@4387b79e]" started-at="2020-01-29T11:11:07 WET" name="testCT01ValidarLayout" finished-at="2020-01-29T11:11:14 WET" duration-ms="6578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCT01ValidarLayout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.tests.CT01ValidarLayout@4387b79e]" started-at="2020-01-29T11:11:14 WET" name="tearDown" finished-at="2020-01-29T11:11:17 WET" duration-ms="2502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.tests.CT01ValidarLayout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
