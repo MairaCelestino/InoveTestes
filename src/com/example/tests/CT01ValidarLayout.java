@@ -65,7 +65,7 @@ public class CT01ValidarLayout {
 			fail(verificationErrorString);
 		}
 	}
-
+ // cometários testes
 	private boolean isElementPresent(By by) {
 		try {
 			driver.findElement(by);
